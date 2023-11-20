@@ -7,14 +7,14 @@
 
 ### 📊 GitHub Stats
 
-![VinnySts's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinnySts&theme=transparent&bg_color=001966&border_color=809fff&show_icons=true&icon_color=&title_color=fff&text_color=809fff&hide_title=true)
+![VinnySts's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinnySts&theme=transparent&bg_color=001966&border_color=809fff&show_icons=true&icon_color=&title_color=fff&text_color=ccd9ff&hide_title=true)
+
+### 🚀 Most used languages
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VinnySts&bg_color=001966&border_color=809fff&title_color=fff&text_color=809fff&hide_title=true)
 
 ### 📌 Featured Projects
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VinnySts&repo=dio-desafio-classificador-de-nivel&bg_color=001966&border_color=809fff&show_icons=true&icon_color=30A3DC&title_color=fff&text_color=809fff)](https://github.com/VinnySts/dio-desafio-classificador-de-nivel)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VinnySts&repo=dio-desafio-calculadora-de-partidas-rankeadas&bg_color=001966&border_color=809fff&show_icons=true&icon_color=30A3DC&title_color=fff&text_color=809fff)](https://github.com/VinnySts/dio-desafio-calculadora-de-partidas-rankeadas)
-
-### 🚀 Most used languages
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VinnySts&bg_color=001966&border_color=809fff&title_color=fff&text_color=809fff&hide_title=true)
