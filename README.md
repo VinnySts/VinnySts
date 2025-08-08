@@ -9,9 +9,6 @@
 [![Git](https://img.shields.io/badge/Git-5c5aa4?style=for-the-badge&logo=git&logoColor=fff)](https://github.com/VinnySts)
 [![GitHub](https://img.shields.io/badge/GitHub-5c5aa4?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/VinnySts)
 ![Vercel](https://img.shields.io/badge/vercel-5c5aa4.svg?style=for-the-badge&logo=vercel&logoColor=fff)
-[![Whatsapp](https://img.shields.io/badge/Whatsapp-5c5aa4?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://api.whatsapp.com/send/?phone=557192052816&text&type=phone_number&app_absent=0)
-![Instagram](https://img.shields.io/badge/Instagram-5c5aa4?style=for-the-badge&logo=instagram&logoColor=fff)
-![Portfólio](https://img.shields.io/badge/portfolio-5c5aa4?style=for-the-badge&logo=portfolio&logoColor=fff)
 
 ### 📊 GitHub Stats
 
