@@ -25,15 +25,15 @@
 
 ### 📌 Featured Projects
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VinnySts&repo=individual-value-calculator&bg_color=5c5aa4&border_color=809fff&show_icons=true&icon_color=c6d3ff&title_color=fff&text_color=c6d3ff)]([https://github.com/VinnySts/datasavelist.git](https://github.com/VinnySts/Individual-Value-Calculator.git))
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VinnySts&repo=individual-value-calculator&bg_color=5c5aa4&border_color=809fff&show_icons=true&icon_color=c6d3ff&title_color=fff&text_color=c6d3ff)](https://github.com/VinnySts/Individual-Value-Calculator.git)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VinnySts&repo=datasavelist&bg_color=5c5aa4&border_color=809fff&show_icons=true&icon_color=c6d3ff&title_color=fff&text_color=c6d3ff)](https://github.com/VinnySts/datasavelist.git)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VinnySts&repo=tela-de-autenticacao-segsis&bg_color=5c5aa4&border_color=809fff&show_icons=true&icon_color=c6d3ff&title_color=fff&text_color=c6d3ff)](https://github.com/VinnySts/tela-de-autenticacao-segsis.git)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VinnySts&repo=Challenge-Amigo_Secreto-PT&bg_color=5c5aa4&border_color=809fff&show_icons=true&icon_color=c6d3ff&title_color=fff&text_color=c6d3ff)]((https://github.com/VinnySts/Challenge-Amigo_Secreto-PT.git))
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VinnySts&repo=Challenge-Amigo_Secreto-PT&bg_color=5c5aa4&border_color=809fff&show_icons=true&icon_color=c6d3ff&title_color=fff&text_color=c6d3ff)](https://github.com/VinnySts/Challenge-Amigo_Secreto-PT.git)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VinnySts&repo=7DaysOfCode_Alura_G9-BR&bg_color=5c5aa4&border_color=809fff&show_icons=true&icon_color=c6d3ff&title_color=fff&text_color=c6d3ff)]([https://github.com/VinnySts/dio-desafio-escrevendo-as-classes-de-um-jogo](https://github.com/VinnySts/7DaysOfCode_Alura_G9-BR.git))
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VinnySts&repo=7DaysOfCode_Alura_G9-BR&bg_color=5c5aa4&border_color=809fff&show_icons=true&icon_color=c6d3ff&title_color=fff&text_color=c6d3ff)](https://github.com/VinnySts/7DaysOfCode_Alura_G9-BR.git)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VinnySts&repo=dio-desafio-escrevendo-as-classes-de-um-jogo&bg_color=5c5aa4&border_color=809fff&show_icons=true&icon_color=c6d3ff&title_color=fff&text_color=c6d3ff)](https://github.com/VinnySts/dio-desafio-escrevendo-as-classes-de-um-jogo)
 
